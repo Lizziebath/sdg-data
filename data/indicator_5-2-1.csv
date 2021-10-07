@@ -177,8 +177,8 @@ Year,Series,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,,,O level/GCSE,,Units,Undefined,,7.809696845786148
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,,,Other qualification,,Units,Undefined,,4.092801401139943
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,,,No qualification,,Units,Undefined,,4.30894024024491
-2018/19,Percentage of women aged 16 to 59 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,12.874502258303107
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,Non-disabled (GSS harmonised),,,,,Units,Undefined,,5.408475819471454
+2018/19,Percentage of women aged 16 to 59 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,12.874502258303107
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,Born in UK,,,,Units,Undefined,,6.994836460742056
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,Not born in UK,,,,Units,Undefined,,3.7518147900003083
 2018/19,Percentage of women aged 16 to 59 (%),,,,,,,,North East,,,Units,Undefined,E12000001,5.561740809721062
@@ -231,6 +231,7 @@ Year,Series,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,
 2018/19,Percentage of women aged 16 to 74 (%),,,,White,,,,,,,Units,Undefined,,5.563858898858095
 2018/19,Percentage of women aged 16 to 74 (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Units,Undefined,,5.779358265377244
 2018/19,Percentage of women aged 16 to 74 (%),,,,White,Any other White background,,,,,,Units,Undefined,,3.513469486828807
+2018/19,Percentage of women aged 16 to 74 (%),,,,Mixed,,,,,,,Units,Undefined,,16.448187312098373
 2018/19,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,,,,,,,Units,Undefined,,3.6053749083585847
 2018/19,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,Indian,,,,,,Units,Undefined,,4.234301998563054
 2018/19,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,Pakistani,,,,,,Units,Undefined,,5.983759859695322
@@ -238,10 +239,9 @@ Year,Series,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,
 2018/19,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,,,,,,,Units,Undefined,,5.525981677231917
 2018/19,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,African,,,,,,Units,Undefined,,3.458988191006348
 2018/19,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Units,Undefined,,10.552326925082305
-2018/19,Percentage of women aged 16 to 74 (%),,,,Mixed,,,,,,,Units,Undefined,,16.448187312098373
 2018/19,Percentage of women aged 16 to 74 (%),,,,Other ethnic group,,,,,,,Units,Undefined,,5.632404694978325
-2018/19,Percentage of women aged 16 to 74 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,9.976597837604869
 2018/19,Percentage of women aged 16 to 74 (%),,,,,,Non-disabled (GSS harmonised),,,,,Units,Undefined,,4.861129691921827
+2018/19,Percentage of women aged 16 to 74 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,9.976597837604869
 2018/19,Percentage of women aged 16 to 74 (%),,,,,,,Born in UK,,,,Units,Undefined,,6.057586618313199
 2018/19,Percentage of women aged 16 to 74 (%),,,,,,,Not born in UK,,,,Units,Undefined,,3.4921502152097754
 2018/19,Percentage of women aged 16 to 74 (%),,,,,,,,North East,,,Units,Undefined,E12000001,4.474192351070757
@@ -269,6 +269,9 @@ Year,Series,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,
 2019/20,Percentage of women aged 16 to 74 (%),,,,White,,,,,,,Units,Undefined,,5.901064136298121
 2019/20,Percentage of women aged 16 to 74 (%),,,,White,English/Welsh/Scottish/Northern Irish/British,,,,,,Units,Undefined,,6.1273260028778616
 2019/20,Percentage of women aged 16 to 74 (%),,,,White,Any other White background,,,,,,Units,Undefined,,3.4884348035054975
+2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,,,,,,,Units,Undefined,,6.247334437810206
+2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,White and Black Caribbean,,,,,,Units,Undefined,,11.63113020397839
+2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,Any other Mixed/Multiple ethnic background,,,,,,Units,Undefined,,0.7945522998580976
 2019/20,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,,,,,,,Units,Undefined,,3.017858164176115
 2019/20,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,Indian,,,,,,Units,Undefined,,2.682980246734557
 2019/20,Percentage of women aged 16 to 74 (%),,,,Asian/Asian British,Pakistani,,,,,,Units,Undefined,,4.528716690689322
@@ -278,12 +281,9 @@ Year,Series,Type of partner abuse,Abuse sub-category,Age,Ethnicity,Ethnic group,
 2019/20,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,,,,,,,Units,Undefined,,4.255813755293295
 2019/20,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,African,,,,,,Units,Undefined,,4.532353452425294
 2019/20,Percentage of women aged 16 to 74 (%),,,,Black/African/Caribbean/Black British,Caribbean,,,,,,Units,Undefined,,4.075639376450569
-2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,,,,,,,Units,Undefined,,6.247334437810206
-2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,White and Black Caribbean,,,,,,Units,Undefined,,11.63113020397839
-2019/20,Percentage of women aged 16 to 74 (%),,,,Mixed,Any other Mixed/Multiple ethnic background,,,,,,Units,Undefined,,0.7945522998580976
 2019/20,Percentage of women aged 16 to 74 (%),,,,Other ethnic group,,,,,,,Units,Undefined,,3.8891505561333264
-2019/20,Percentage of women aged 16 to 74 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,11.457190416622666
 2019/20,Percentage of women aged 16 to 74 (%),,,,,,Non-disabled (GSS harmonised),,,,,Units,Undefined,,4.571889166326558
+2019/20,Percentage of women aged 16 to 74 (%),,,,,,Disabled (GSS harmonised),,,,,Units,Undefined,,11.457190416622666
 2019/20,Percentage of women aged 16 to 74 (%),,,,,,,Born in UK,,,,Units,Undefined,,6.078639966801806
 2019/20,Percentage of women aged 16 to 74 (%),,,,,,,Not born in UK,,,,Units,Undefined,,3.327171642814968
 2019/20,Percentage of women aged 16 to 74 (%),,,,,,,,North East,,,Units,Undefined,E12000001,3.959728887745527
