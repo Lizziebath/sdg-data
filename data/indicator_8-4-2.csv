@@ -18,6 +18,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption,Million metric tonnes,Biomass,Undefined,Units,Million metric tonnes,168.44920000000002
 2017,Domestic material consumption,Million metric tonnes,Biomass,Undefined,Units,Million metric tonnes,182.6595
 2018,Domestic material consumption,Million metric tonnes,Biomass,Undefined,Units,Million metric tonnes,174.6735
+2019,Domestic material consumption,Million metric tonnes,Biomass,Undefined,Units,Million metric tonnes,184.0556
 2000,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,240.58360000000002
 2001,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,242.22879999999998
 2002,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,231.5085
@@ -37,6 +38,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,149.0349
 2017,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,145.5661
 2018,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,144.489
+2019,Domestic material consumption,Million metric tonnes,Fossil fuels,Undefined,Units,Million metric tonnes,142.3796
 2000,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,16.9655
 2001,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,20.3047
 2002,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,18.8867
@@ -56,6 +58,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,12.1942
 2017,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,11.5622
 2018,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,11.2524
+2019,Domestic material consumption,Million metric tonnes,Metal ores,Undefined,Units,Million metric tonnes,13.3974
 2000,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,298.0389
 2001,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,303.8595
 2002,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,289.7323
@@ -75,6 +78,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,219.9657
 2017,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,221.1788
 2018,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,226.40370000000001
+2019,Domestic material consumption,Million metric tonnes,Non-metallic minerals,Undefined,Units,Million metric tonnes,216.7549
 2000,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,738.8485
 2001,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,743.2789
 2002,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,721.972
@@ -94,6 +98,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,558.3661
 2017,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,569.638
 2018,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,565.6744
+2019,Domestic material consumption,Million metric tonnes,,Undefined,Units,Million metric tonnes,566.7899
 2000,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.976305104260598
 2001,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.85699853311494
 2002,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.952419796374932
@@ -113,6 +118,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.565943538859507
 2017,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.765882292746138
 2018,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.6292173392107085
+2019,Domestic material consumption per capita,Tonnes,Biomass,Undefined,Units,DMC per capita (Tonnes),2.7554553511545463
 2000,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),4.085575373475234
 2001,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),4.097723587644386
 2002,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),3.899702853552904
@@ -132,6 +138,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),2.270210477221457
 2017,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),2.204203440905694
 2018,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),2.1748747470292638
+2019,Domestic material consumption per capita,Tonnes,Fossil fuels,Undefined,Units,DMC per capita (Tonnes),2.131533247101658
 2000,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.288107040540977
 2001,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.3434894947671085
 2002,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.31814174375540266
@@ -151,6 +158,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.18575112675845654
 2017,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.17507813305735206
 2018,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.1693731744525333
+2019,Domestic material consumption per capita,Tonnes,Metal ores,Undefined,Units,DMC per capita (Tonnes),0.20056948835872376
 2000,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),5.06127761899667
 2001,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),5.140314613620798
 2002,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),4.880468220719524
@@ -170,6 +178,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),3.3506811946017474
 2017,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),3.3491525294377764
 2018,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),3.4078697323947797
+2019,Domestic material consumption per capita,Tonnes,Non-metallic minerals,Undefined,Units,DMC per capita (Tonnes),3.244989280923637
 2000,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),12.5
 2001,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),12.6
 2002,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),12.2
@@ -189,6 +198,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),8.5
 2017,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),8.6
 2018,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),8.5
+2019,Domestic material consumption per capita,Tonnes,,Undefined,Units,DMC per capita (Tonnes),8.485285223244228
 2000,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),116.57713674531465
 2001,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),109.09061548041372
 2002,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),110.64408405981906
@@ -208,6 +218,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),84.41546336266299
 2017,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),89.83692973853478
 2018,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),84.77263219402725
+2019,Domestic material consumption per GDP,Tonnes per £m,Biomass,Undefined,Units,Tonnes of DMC per GDP (£m),88.08515261167763
 2000,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),160.02548875621255
 2001,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),156.4660195178164
 2002,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),146.14420715733127
@@ -227,6 +238,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),74.68631575993321
 2017,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),71.59338275869871
 2018,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),70.12347524428608
+2019,Domestic material consumption per GDP,Tonnes per £m,Fossil fuels,Undefined,Units,Tonnes of DMC per GDP (£m),68.13989248243256
 2000,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),11.284694507412492
 2001,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),13.115680656071477
 2002,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),11.922593759271768
@@ -246,6 +258,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),6.110916782846015
 2017,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),5.686605673523067
 2018,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),5.461020512556697
+2019,Domestic material consumption per GDP,Tonnes per £m,Metal ores,Undefined,Units,Tonnes of DMC per GDP (£m),6.4117148492069225
 2000,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),198.24219373583222
 2001,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),196.27594430420302
 2002,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),182.89910422887297
@@ -265,6 +278,7 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),110.2320847436053
 2017,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),108.78177327351402
 2018,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),109.87835926724368
+2019,Domestic material consumption per GDP,Tonnes per £m,Non-metallic minerals,Undefined,Units,Tonnes of DMC per GDP (£m),103.73435226001773
 2000,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),491.44909432436174
 2001,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),480.11586927145373
 2002,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),455.758754126923
@@ -284,3 +298,4 @@ Year,Series,Units,Material category,Observation status,Unit multiplier,Unit meas
 2016,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),279.8157133278342
 2017,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),280.16352274258645
 2018,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),274.53338859516214
+2019,Domestic material consumption per GDP,Tonnes per £m,,Undefined,Units,Tonnes of DMC per GDP (£m),271.2537670152796
