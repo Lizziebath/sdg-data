@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,Unit measure,Value
-1992.0,Estimated value,Units,Percentage (%),20.54
-1997.0,Estimated value,Units,Percentage (%),20.88
-2002.0,Estimated value,Units,Percentage (%),21.55
-2007.0,Estimated value,Units,Percentage (%),14.51
-2012.0,Estimated value,Units,Percentage (%),13.67
-2017.0,Estimated value,Units,Percentage (%),14.35
+Year,Series,Observation status,Unit multiplier,Unit measure,Value
+1992.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),20.54
+1997.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),20.88
+2002.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),21.55
+2007.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),14.51
+2012.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),13.67
+2017.0,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Estimated value,Units,Percentage (%),14.35
